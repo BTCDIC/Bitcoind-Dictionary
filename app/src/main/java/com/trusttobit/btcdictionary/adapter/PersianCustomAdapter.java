@@ -20,7 +20,6 @@ public class PersianCustomAdapter extends ArrayAdapter<DataModel> implements Vie
     private static class ViewHolder {
         TextView txtName;
     }
-
     public PersianCustomAdapter(ArrayList<DataModel> data, Context context) {
         super(context, R.layout.persian_list_row, data);
         this.dataSet = data;

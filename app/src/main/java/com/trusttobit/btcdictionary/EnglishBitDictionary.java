@@ -93,7 +93,6 @@ public class EnglishBitDictionary extends AppCompatActivity {
             }
         });
     }
-
     public void searchInEnglish(){
         //search_in_db
         try {

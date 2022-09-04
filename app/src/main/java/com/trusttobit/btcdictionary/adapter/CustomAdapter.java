@@ -50,7 +50,6 @@ public class CustomAdapter extends ArrayAdapter<DataModel> implements View.OnCli
         final View result;
 
         if (convertView == null) {
-
             viewHolder = new ViewHolder();
             LayoutInflater inflater = LayoutInflater.from(getContext());
             convertView = inflater.inflate(R.layout.list_row, parent, false);

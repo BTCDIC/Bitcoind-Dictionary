@@ -120,4 +120,5 @@ public class PersianBitDictionary extends AppCompatActivity {
         adapter= new PersianCustomAdapter(dataModels,getApplicationContext());
         lv.setAdapter(adapter);
     }
+
 }

@@ -61,7 +61,6 @@ public class ShowEnglishDetails extends AppCompatActivity {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
         tv.setText(description.toString());
         tv.setTextSize(TypedValue.COMPLEX_UNIT_SP,16);
         tv.setTypeface(null, Typeface.BOLD);

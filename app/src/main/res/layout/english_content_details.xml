@@ -9,6 +9,7 @@
     tools:context=".ShowEnglishDetails"
     tools:showIn="@layout/show_details">
 
+
     <TextView
         android:id="@+id/textviewscrollview"
         android:layout_width="wrap_content"

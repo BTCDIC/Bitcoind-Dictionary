@@ -132,6 +132,5 @@ public class DBAdapter {
     {
         DBHelper.close();
     }
-
 }
 

@@ -39,7 +39,6 @@ public class EnglishCustomAdapter extends ArrayAdapter<DataModel> implements Vie
 
         }
     }
-
     private int lastPosition = -1;
 
     @Override

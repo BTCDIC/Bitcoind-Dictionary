@@ -24,7 +24,6 @@ public class SearchBitDictionary extends AppCompatActivity {
     ArrayList<String> mylist;
     String []names;
     String searchName;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

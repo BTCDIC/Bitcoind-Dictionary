@@ -9,6 +9,7 @@
     tools:context=".ShowPersianDetails"
     tools:showIn="@layout/persian_show_details">
 
+
     <TextView
         android:id="@+id/textviewscrollview"
         android:layout_width="wrap_content"
